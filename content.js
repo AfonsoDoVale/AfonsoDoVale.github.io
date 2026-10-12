@@ -657,7 +657,7 @@ window.PORTFOLIO = {
         "1749-016 Lisboa",
         "Portugal"
       ],
-      "url": "https://www.iastro.pt/research/conferences/s-sail/index.html?opt=venue"
+      "url": "https://www.iastro.pt/"
     },
     {
       "city": "Bordeaux",
