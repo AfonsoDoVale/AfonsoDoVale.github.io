@@ -1,6 +1,8 @@
 window.PORTFOLIO = {
   "name": "Afonso R. G. do Brito do Vale",
-  "email": "fc47932@alunos.ciencias.ulisboa.pt",
+  "emailUser": "fc47932",
+  "emailDomain": "alunos.ciencias.ulisboa.pt",
+  "orcid": "https://orcid.org/0000-0002-7742-3779",
   "portrait": {
     "image": "assets/afonso-portrait.png",
     "alt": "Portrait of Afonso R. G. do Brito do Vale"
